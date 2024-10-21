@@ -10,9 +10,9 @@ setup(
     license="MIT",
     py_modules=["amzscraper"],
     install_requires=[
-        "beautifulsoup4==4.9.3",
-        "selenium==3.141.0",
-        "lxml==4.6.2",
+        "beautifulsoup4==4.12.3",
+        "selenium==4.25.0",
+        "lxml==5.3.0",
     ],
     entry_points={
         "console_scripts": [
